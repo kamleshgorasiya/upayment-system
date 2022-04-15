@@ -1,10 +1,10 @@
 const productName = "Laptop";
 const categoryName="Electronic"
 const description = "This is the great laptop";
-const email = "vaibhav@gmail.com";
+const email = "kamlesh@gmail.com";
 const productImage = "http://hd.wallpaperswide.com/thumbs/laptop-t2.jpg";
 const price = 160000;
-const dummyEmail = "vaibhavgmail.com";
+const dummyEmail = "kamlesh@gmail.com";
 
 describe("Create product test cases", () => {
   it("Check every field is mandatory", () => {
